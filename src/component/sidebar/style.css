@@ -50,20 +50,54 @@
     font-size: 15px;
     color: #4a4a4a;
     letter-spacing: -0.44px;
-    margin-left: 10px;
-    margin-top: 4px;
+    margin-left: 10px
 }
 
 .sidebar .sidebar-logo{
     bottom: 0px;
     position: absolute;
+    left: 0;
+    right: 0;
+}
+.sidebar .sidebar-logo > img{
+    padding-left: 40px;
 }
 
 .sidebar .sidebar-logo .content{
+    padding-left: 10px;
     margin-top: 30px;
     display: flex;
     font-family: 'Avenir-Medium';
     color: #4a4a4a;
     letter-spacing: -0.44px;
-    justify-content: space-around
+    justify-content: space-between;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.sidebar .sidebar-logo .content .icons-bottom{
+    margin: 0 0 10px;
+}
+
+.sidebar .sidebar-logo .con{
+    margin-top: 4px;
+    display: flex;
+}
+
+.sidebar .sidebar-logo .con p{
+    margin-right: 10px
+}
+
+@media(max-width: 768px){
+    .sidebar .sidebar-logo .con p{
+        margin-right: 5px
+    }
+}
+
+.sidebar .sidebar-logo .content .icons-bottom > img{
+    margin-left: 10px;
+}
+
+.sidebar .menu-items .items > img{
+    margin-left: 2px;
 }

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>World Clock</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.49125,1.75 C5.66125,1.75 1.75,5.67 1.75,10.5 C1.75,15.33 5.66125,19.25 10.49125,19.25 C15.33,19.25 19.25,15.33 19.25,10.5 C19.25,5.67 15.33,1.75 10.49125,1.75 Z M10.5,17.5 C6.6325,17.5 3.5,14.3675 3.5,10.5 C3.5,6.6325 6.6325,3.5 10.5,3.5 C14.3675,3.5 17.5,6.6325 17.5,10.5 C17.5,14.3675 14.3675,17.5 10.5,17.5 Z M10.9375,6.125 L9.625,6.125 L9.625,11.375 L14.21875,14.13125 L14.875,13.055 L10.9375,10.71875 L10.9375,6.125 Z" id="path-1"></path>
+    </defs>
+    <g id="Master-template" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apte-Dashboard" transform="translate(-185.000000, -991.000000)">
+            <g id="Sidebar" transform="translate(8.000000, 99.000000)">
+                <g id="Tools" transform="translate(4.000000, 891.000000)">
+                    <g id="icon/device/access_time_24px" transform="translate(172.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g fill-rule="nonzero"></g>
+                        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54" fill-rule="evenodd">
+                            <rect id="Rectangle" x="0" y="0" width="21" height="21"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

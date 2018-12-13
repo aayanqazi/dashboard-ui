@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/editor/bar_chart_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5,9.2 L8,9.2 L8,19 L5,19 L5,9.2 Z M10.6,5 L13.4,5 L13.4,19 L10.6,19 L10.6,5 Z M16.2,13 L19,13 L19,19 L16.2,19 L16.2,13 Z" id="path-1"></path>
+    </defs>
+    <g id="Master-template" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apte-Dashboard" transform="translate(-32.000000, -362.000000)">
+            <g id="Sidebar" transform="translate(8.000000, 99.000000)">
+                <g id="Menu" transform="translate(0.000000, 51.000000)">
+                    <g id="Reports" transform="translate(19.000000, 207.000000)">
+                        <g id="icon/editor/bar_chart_24px">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g fill-rule="nonzero"></g>
+                            <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54" fill-rule="evenodd">
+                                <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

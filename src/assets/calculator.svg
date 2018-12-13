@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Calculator</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.33333333,6.66666667 L6.66666667,6.66666667 L6.66666667,3.33333333 L3.33333333,3.33333333 L3.33333333,6.66666667 Z M8.33333333,16.6666667 L11.6666667,16.6666667 L11.6666667,13.3333333 L8.33333333,13.3333333 L8.33333333,16.6666667 Z M3.33333333,16.6666667 L6.66666667,16.6666667 L6.66666667,13.3333333 L3.33333333,13.3333333 L3.33333333,16.6666667 Z M3.33333333,11.6666667 L6.66666667,11.6666667 L6.66666667,8.33333333 L3.33333333,8.33333333 L3.33333333,11.6666667 Z M8.33333333,11.6666667 L11.6666667,11.6666667 L11.6666667,8.33333333 L8.33333333,8.33333333 L8.33333333,11.6666667 Z M13.3333333,3.33333333 L13.3333333,6.66666667 L16.6666667,6.66666667 L16.6666667,3.33333333 L13.3333333,3.33333333 Z M8.33333333,6.66666667 L11.6666667,6.66666667 L11.6666667,3.33333333 L8.33333333,3.33333333 L8.33333333,6.66666667 Z M13.3333333,11.6666667 L16.6666667,11.6666667 L16.6666667,8.33333333 L13.3333333,8.33333333 L13.3333333,11.6666667 Z M13.3333333,16.6666667 L16.6666667,16.6666667 L16.6666667,13.3333333 L13.3333333,13.3333333 L13.3333333,16.6666667 Z" id="path-1"></path>
+    </defs>
+    <g id="Master-template" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apte-Dashboard" transform="translate(-156.000000, -994.000000)">
+            <g id="Sidebar" transform="translate(8.000000, 99.000000)">
+                <g id="Tools" transform="translate(4.000000, 891.000000)">
+                    <g id="icon/navigation/apps_24px" transform="translate(141.000000, 1.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g fill-rule="nonzero"></g>
+                        <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54" fill-rule="evenodd">
+                            <rect id="Rectangle" x="0" y="0" width="20" height="20"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -12,10 +12,10 @@ class NavbarComponent extends Component {
   render() {
     return (
       <header className="navbar">
-        <Col md={2} lg={2} sm={2} xs={6} className="logo">
+        <Col md={3} lg={2} sm={3} xs={6} className="logo">
           <img src={Logo} />
         </Col>
-        <Col md={6} lg={6} sm={6} xsHidden >
+        <Col md={5} lg={6} sm={5} xsHidden >
           <Row className="notification-icons">
           <div className="icons">
             <span className="red-circle"></span>
